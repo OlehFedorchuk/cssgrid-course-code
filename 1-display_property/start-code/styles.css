@@ -3,6 +3,6 @@
 /* lesson styles */
 
 .container {
-    display: grid;
-    /* display: inline-grid; */
+    /* display: grid; */
+    display: inline-grid;
 }
