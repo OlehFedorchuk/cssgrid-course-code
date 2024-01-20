@@ -4,4 +4,23 @@
 
 .container {
   display: grid;
+  border: 10px solid;
+  grid-template-columns: repeat(4,150px);
+  grid-template-rows: repeat(3, 150px);
+  justify-content: space-between;
+ 
+
 }
+.item-4{
+  justify-self: end;
+  align-self: start;
+}
+
+/* justify-items
+align-items */
+
+/* justify-content
+align-cotent */
+
+/* justify-self
+align-self */
