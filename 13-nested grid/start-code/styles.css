@@ -3,6 +3,7 @@
 /* lesson styles */
 
 .container {
+  border: 2px solid #000;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   gap: 20px;
